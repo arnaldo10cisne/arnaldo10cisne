@@ -9,7 +9,7 @@ Here, you will find the things that I developed, that I'd like to share with oth
 
 Some of the things I feel the proudest about are:
 
- - [My personal website](arnaldo10cisne.github.io)
+ - [My personal website](https://arnaldo10cisne.github.io/html/landing.html)
  - [The card game "UNO!" made in python](https://github.com/arnaldo10cisne/UNO-in-python-terminal)
  - [A small "shopping list" app in the browser](https://github.com/arnaldo10cisne/SHOPPING_LIST)
 
