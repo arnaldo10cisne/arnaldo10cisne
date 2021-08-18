@@ -12,6 +12,7 @@ Some of the things I feel the proudest about are:
  - [My personal website](https://arnaldo10cisne.github.io/html/landing.html)
  - [The card game "UNO!" made in python](https://github.com/arnaldo10cisne/UNO-in-python-terminal)
  - [A small "shopping list" app in the browser](https://github.com/arnaldo10cisne/SHOPPING_LIST)
+ - ["Paseo", a small unity project I created way back in 2014](https://github.com/arnaldo10cisne/Paseo__Unity_game)
 
 Finally, if you like the things you see here, and would like to contact me, either for 👨🏻‍💼Work or even 🙌🏻Friendship, feel free to follow me on my social media! You can also send me an email [through my website](https://arnaldo10cisne.github.io/html/contact.html) 😊
 
