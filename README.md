@@ -3,15 +3,15 @@
 ## Web developer, part-time musician, and a gamer at heart
 🙋🏻‍♂️ Hi there!
 
-Welcome to my Github! I hope you can find something interesting here that will allow you to get to know me a little bit better. I 💙 **LOVE** getting involved in fun projects where I can show other people how passionate I am about creating stuff on my computer.
+Welcome to my Github! I hope you can find something interesting here that will allow you to get to know me a little bit better. I 💙 **LOVE** getting involved in fun projects where I can show other people how passionate I am about creating stuff.
 
-Here, you will find the things that I developed, that I'd like to share with other people, Including 💻Websites, 🎮Games, and some other smaller coding projects.
+Here, you will find the things that I developed, Including 💻Websites, 🎮Games, and some other smaller coding projects.
 
 Some of the things I feel the proudest about are:
 
  - [My personal website](https://www.arnaldocisneros.com)
  - [The card game "UNO!" made in python](https://github.com/arnaldo10cisne/UNO-in-python-terminal)
- - [A small "shopping list" app in the browser](https://github.com/arnaldo10cisne/SHOPPING_LIST)
+ - [The "Marvel Guidebook", a website created to consume the MARVEL API](https://github.com/arnaldo10cisne/MARVEL_API_PROJECT)
  - ["Paseo", a small unity project I created way back in 2014](https://github.com/arnaldo10cisne/Paseo__Unity_game)
 
 Finally, if you like the things you see here, and would like to contact me, either for 👨🏻‍💼Work or even 🙌🏻Friendship, feel free to follow me on my social media! You can also send me an email [through my website](https://www.arnaldocisneros.com/contact) 😊
