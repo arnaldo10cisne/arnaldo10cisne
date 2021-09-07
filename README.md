@@ -5,7 +5,7 @@
 
 Welcome to my Github! I hope you can find something interesting here that will allow you to get to know me a little bit better. I 💙 **LOVE** getting involved in fun projects where I can show other people how passionate I am about creating stuff.
 
-Here, you will find the things that I developed, Including 💻Websites, 🎮Games, and some other smaller coding projects.
+Here, you will find things that I have developed, Including 💻Websites, 🎮Games, and some other smaller coding projects.
 
 Some of the things I feel the proudest about are:
 
