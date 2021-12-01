@@ -1,6 +1,6 @@
 ![enter image description here](https://res.cloudinary.com/arnaldo10cisne/image/upload/v1629248596/Captura_vzuuca.png)
 
-## Web developer, part-time musician, and a gamer at heart
+## Software Engineer, part-time musician, and a gamer at heart
 🙋🏻‍♂️ Hi there!
 
 Welcome to my Github! I hope you can find something interesting here that will allow you to get to know me a little bit better. I 💙 **LOVE** getting involved in fun projects where I can show other people how passionate I am about creating stuff.
