@@ -9,7 +9,7 @@ Here, you will find things that I have developed, Including 💻Websites, 🎮Ga
 
 Some of the things I feel the proudest about are:
 
- - [My personal website](https://www.arnaldocisnerosdev.com)
+ - [My personal website](https://www.arnaldocisneros.com)
  - [The card game "UNO!" made in python](https://github.com/arnaldo10cisne/UNO-in-python-terminal)
  - [The "Marvel Guidebook", a website created to consume the MARVEL API](https://github.com/arnaldo10cisne/MARVEL_API_PROJECT)
  - ["Paseo", a small unity project I created way back in 2014](https://github.com/arnaldo10cisne/Paseo__Unity_game)
