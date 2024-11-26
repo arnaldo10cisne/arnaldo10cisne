@@ -1,9 +1,11 @@
-## Software Engineer, part-time musician, and a cloud enthusiast at heart  
+![enter image description here](https://res.cloudinary.com/arnaldo10cisne/image/upload/v1629248596/Captura_vzuuca.png)
+
+## Software Engineer and Cloud Solutions  
 🙋🏻‍♂️ Hi there!  
 
 Welcome to my GitHub! I hope you can find something interesting here that will allow you to get to know me a little better. I 💙 **LOVE** getting involved in fun projects where I can show other people how passionate I am about creating scalable and innovative solutions.  
 
-Here, you will find things that I have developed, including Websites, robust APIs, and some other cloud-focused projects.  
+Here, you will find things that I have developed, including 💻Websites, robust APIs, and some other cloud-focused projects.  
 
 Some of the things I feel the proudest about are:  
 
