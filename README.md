@@ -10,9 +10,9 @@ Here, you will find things that I have developed, including 💻Websites, robust
 Some of the things I feel the proudest about are:  
 
 - [My personal website](https://github.com/arnaldo10cisne/arnaldo10cisne.github.io): A professional portfolio showcasing my projects and certifications, built with React and TypeScript, and deployed with AWS services like S3, CloudFront, and Lambda.  
+- [The "Materia Shop", a fullstack website created to simulate an online shop to buy Materia orbs from Final Fantasy VII](https://github.com/arnaldo10cisne/materia_shop/)  
 - [The card game "UNO!" made in Python](https://github.com/arnaldo10cisne/UNO-in-python-terminal)  
 - [The "Marvel Guidebook", a website created to consume the MARVEL API](https://github.com/arnaldo10cisne/MARVEL_API_PROJECT)
-- [The "Materia Shop", a website created to simulate an online shop to buy Materia orbs from Final Fantasy VII](https://github.com/arnaldo10cisne/materia_shop/)  
 
 I specialize in:  
 
